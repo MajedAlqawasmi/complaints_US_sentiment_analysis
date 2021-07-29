@@ -41,8 +41,12 @@ My ways of working included an iterative/agile approach circling through the fol
 
 ## Key Take Aways & Final Product
 
+- **Complaints trend over last 7 years:** ![Trend](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/complaints_over_years.PNG) Number of complaints for each product is proportionate to companies' sizes
 - **Top 5 products in terms of numbers of complaints in top 20 banks:** ![Top 5 products](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/top5product20banks.PNG) Number of complaints for each product is proportionate to companies' sizes
-- **Finalizing a full dashboard:** usin ![Consumer Complaints](Customer-Complaints.jpg)
-- **Finalizing a full dashboard:** usin ![Consumer Complaints](Customer-Complaints.jpg)
-- **Finalizing a full dashboard:** usin ![Consumer Complaints](Customer-Complaints.jpg)
-- **Finalizing a full dashboard:** usin
+- **Top Companies Compaints Wise & Their Bank Rank (Assets):** usin ![Top Companies Compaints Wise](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/top_bank_compliants-wise.PNG) Some organisations that might need some scrutiny
+- **Consumer's sentiment:** usin ![Consumer's sentiment](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/consumer_sentiment.PNG) American cunsumer seems to mainatain objectivity and lack of polarity over the years
+- **Map & Cultural Considerations:** ![Cultural Considerations](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/sentiment_map.PNG) Extra training may be provided to employees in the hightlighted states
+- **Products Susceptible to Fraud Related:** ![Fraud](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/products_susceptible_fraud.PNG) From 2013 to 2019, we see a sharp increase in cryptocurrency related activity comparing to previous years. This can be of interest to Federal AML regulatory body
+- **Products with Response Tardiness:** ![Tardiness](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/products_tardiness.PNG) To customers to whom it may concern and a direct communication with chief compliance officer from the regulator might be needed 
+
+- **Dashboard:** For more many insight, please do check out [this dashboard](https://public.tableau.com/shared/H28TMMJNF?:display_count=n&:origin=viz_share_link)<br/>
