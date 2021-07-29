@@ -37,9 +37,12 @@ My ways of working included an iterative/agile approach circling through the fol
 - **Querying:** using MySQL & Tableau<br/>
 - **Answering question & Visualization:** using [Tableau](https://public.tableau.com/views/Happiness_16250058634520/Top5CorrelationDive?:language=en-US&:display_count=n&:origin=viz_share_link)<br/>
 - **Finalizing a full dashboard:** using [Tableau](https://public.tableau.com/views/Happiness_16250058634520/Top5CorrelationDive?:language=en-US&:display_count=n&:origin=viz_share_link)<br/>
-- **Presentation:** [google slides](https://githhttps://docs.google.com/presentation/d/1ftMkQ6WtlwUEWEiUv-6EIyTO_QtbM_HjcW5qTT4T6G4/edit?usp=sharing)
+- **Presentation:** [google slides](https://docs.google.com/presentation/d/1rhUcAz9iLyuiL-HABICM4ZkHcmgFSo7NMqwrWDgCZaU/edit?usp=sharing)
 
 ## Key Take Aways & Final Product
 
-- **Finalizing a full dashboard:** usin
+- **Top 5 products in terms of numbers of complaints in top 20 banks:** ![Top 5 products](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/top5product20banks.PNG) Number of complaints for each product is proportionate to companies' sizes
+- **Finalizing a full dashboard:** usin ![Consumer Complaints](Customer-Complaints.jpg)
+- **Finalizing a full dashboard:** usin ![Consumer Complaints](Customer-Complaints.jpg)
+- **Finalizing a full dashboard:** usin ![Consumer Complaints](Customer-Complaints.jpg)
 - **Finalizing a full dashboard:** usin
