@@ -1,7 +1,7 @@
-# final_project_ironhack
+# Complaint handling optimization
 by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) July 2021
 <br/><br/>
-## Complaint handling optimization through insights for financial supervisory authorities, consumer & banks 
+##  Insights for financial supervisory authorities, consumer & banks 
 ![Consumer Complaints](Customer-Complaints.jpg)
 
 ## Table of content
@@ -12,7 +12,7 @@ by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) July 2021
 - [Key Take Aways & Final Product](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/README.md#key-take-aways)
 
 ## Project Description
-This project shall aim to both, highlight importnat findings, and provided Data analysis with a comprehensive dashboard on consumer complaint about banking products in the U.S from 2013 to 2019.
+This project shall aim to both, highlight important findings, and provided Data analysis with a comprehensive dashboard on consumer complaint about banking products in the U.S from 2013 to 2019. It aims to raise consumer awareness, helps the regulator in decision making and prompts finacial institutions to optimize their both their complaint handling process as well as their products. 
 
 ## Data
 Four datasets: 
