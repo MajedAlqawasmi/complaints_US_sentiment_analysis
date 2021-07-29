@@ -1,49 +1,45 @@
 # final_project_ironhack
 by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) July 2021
 <br/><br/>
-## Data Analysis On Consumer Complaint About Banking Products in the U.S
-
-![Cosumer Complaints](Customer-Complaints.jpg)
+## Complaint handling optimization through insights for financial supervisory authorities, consumer & banks 
+![Consumer Complaints](Customer-Complaints.jpg)
 
 ## Table of content
 
-- [Lesson](https://github.com/MajedAlqawasmi/project_midcourse/new/main?readme=1#Lesson)
-- [Data](https://github.com/MajedAlqawasmi/project_midcourse/new/main?readme=1#data)
-- [Process & Tools](https://github.com/MajedAlqawasmi/project_midcourse/new/main?readme=1#process--tools)
-- [Visualization](https://github.com/MajedAlqawasmi/project_midcourse/new/main?readme=1#visualizations)
-- [Key Take Aways](https://github.com/MajedAlqawasmi/project_midcourse/new/main?readme=1#key-take-aways)
+- [Project Description](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/README.md#project-brief)
+- [Data](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/README.md#data)
+- [Process & Tools](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/README.md#process--tools)
+- [Key Take Aways & Final Product](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/README.md#key-take-aways)
 
-## Lesson
-Important insights derived from deep diving into Global Happiness Index report 2015-2019.
+## Project Description
+This project shall aim to both, highlight importnat findings, and provided Data analysis with a comprehensive dashboard on consumer complaint about banking products in the U.S from 2013 to 2019.
 
 ## Data
-
-Two sets of data: [world happiness report 2015-2019](https://www.kaggle.com/unsdsn/world-happiness?select=2015.csv). And [WHO Suicide Statistics](https://www.kaggle.com/szamil/who-suicide-statistics)
+Four datasets: 
+- [Consumer Complaints database from Consumer Financial Protection Bureau, USA](https://www.consumerfinance.gov/data-research/consumer-complaints/). 
+- [Consumer Complaints database from data.world](https://data.world/cfpb/consumer-complaints/workspace/file?filename=complaint_data.csv).
+- [U.S ban rank according to total assets](https://www.usbanklocations.com/bank-rank/total-assets.html?d=2021-03-31).
+- [U.S Zipcode database](https://simplemaps.com/data/us-zips).
 
 ## Process & Tools
 
 **Process**
 My ways of working included an iterative/agile approach circling through the following steps:
 
-- **Github:** set up our Github repo to collaborate on. We did 104 commits in 4 days. <br/>
+- **Github:** set up our Github repo to collaborate on or to simply use for this project. <br/>
+- **Project management:** [Trello](https://trello.com/b/UOn2CIdn/ironhack-final-project)
+- **WorldWideWeb:** find datasets<br/>
+- **Coding:** [Jupyter notebook](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/final_project.ipynb)
 - **EDA:** assessment of dataframe to prepare for cleaning<br/>
-- **Data cleaning & wrangling in Python:** drop columns, join tables, drop null values, convert float columns to int<br/>
-- **Prepocessing:** Normalizer and Dummies<br/>
-- **Machine Learning Model:** using scikit learn<br/>
-**- iteration 1 (X):** In my first iteration I only used preprocessing and encoding and used this as a benchmark for the following iterations as comparison. I then ran a linear regression model but defining the Yaxis was mot best plus R2 result was way off<br/>
+- **Data cleaning & wrangling in Python:** using Pandas / numpy to drop columns, join tables, drop null values, convert some uppercase to lower<br/>
+- **Web Scraping:** using BeautifulSoup<br/>
+- **Text Analysis:** NLP using TextBlob to achieve a Sentiment score for each customer narrative<br/>
+- **Querying:** using MySQL & Tableau<br/>
+- **Answering question & Visualization:** using [Tableau](https://public.tableau.com/views/Happiness_16250058634520/Top5CorrelationDive?:language=en-US&:display_count=n&:origin=viz_share_link)<br/>
+- **Finalizing a full dashboard:** using [Tableau](https://public.tableau.com/views/Happiness_16250058634520/Top5CorrelationDive?:language=en-US&:display_count=n&:origin=viz_share_link)<br/>
+- **Presentation:** [google slides](https://githhttps://docs.google.com/presentation/d/1ftMkQ6WtlwUEWEiUv-6EIyTO_QtbM_HjcW5qTT4T6G4/edit?usp=sharing)
 
+## Key Take Aways & Final Product
 
-**Tools**
- - **Project management:** [Trello](https://trello.com/b/ktajG50M/project-project)
- - **Jupyter:** [notebook](https://github.com/MajedAlqawasmi/project_midcourse/blob/main/happiness.ipynb)
- - **Cleaning & Wrangling:** Pandas / numpy
- - **Presentation:** [google slides](https://githhttps://docs.google.com/presentation/d/1ftMkQ6WtlwUEWEiUv-6EIyTO_QtbM_HjcW5qTT4T6G4/edit?usp=sharing)
- - **Vizualizations:** seaborn / matplotlib / [Tableau](https://public.tableau.com/views/Happiness_16250058634520/Top5CorrelationDive?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-## Visualizations
-
-For further visualisations please do check out the [repo](https://github.com/MajedAlqawasmi/project_midcourse/tree/main/Visualizations)
-
-## Key Take Aways
-
-### Happiness indexes rely heavily on econimic factors and yes, some external matters such as daily bread, dignity or good health can influence happiness but only till you have “enough” of them.. The correlation is NOT indefinite.
+- **Finalizing a full dashboard:** usin
+- **Finalizing a full dashboard:** usin
