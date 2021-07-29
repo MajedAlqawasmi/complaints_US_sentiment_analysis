@@ -3,7 +3,7 @@ by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) July 2021
 <br/><br/>
 ## Data Analysis On Consumer Complaint About Banking Products in the U.S
 
-![Classification Case Study](Customer-Complaints.jpg)
+![Cosumer Complaints](Customer-Complaints.jpg)
 
 ## Table of content
 
