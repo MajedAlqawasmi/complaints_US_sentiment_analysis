@@ -16,10 +16,10 @@ This project shall aim to both, highlight important findings, and provided Data 
 
 ## Data
 Four datasets: 
-- [Consumer Complaints database from Consumer Financial Protection Bureau, USA](https://www.consumerfinance.gov/data-research/consumer-complaints/). 
-- [Consumer Complaints database from data.world](https://data.world/cfpb/consumer-complaints/workspace/file?filename=complaint_data.csv).
-- [U.S ban rank according to total assets](https://www.usbanklocations.com/bank-rank/total-assets.html?d=2021-03-31).
-- [U.S Zipcode database](https://simplemaps.com/data/us-zips).
+- [Consumer Complaints database from Consumer Financial Protection Bureau, USA](https://www.consumerfinance.gov/data-research/consumer-complaints/) 
+- [Consumer Complaints database from data.world](https://data.world/cfpb/consumer-complaints/workspace/file?filename=complaint_data.csv)
+- [U.S ban rank according to total assets](https://www.usbanklocations.com/bank-rank/total-assets.html?d=2021-03-31)
+- [U.S Zipcode database](https://simplemaps.com/data/us-zips)
 
 ## Process & Tools
 
