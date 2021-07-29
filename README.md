@@ -41,7 +41,7 @@ My ways of working included an iterative/agile approach circling through the fol
 
 ## Key Take Aways & Final Product
 
-- **Complaints trend over last 7 years:** ![Trend](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/complaints_over_years.PNG) Number of complaints for each product is proportionate to companies' sizes
+- **Complaints trend over last 7 years:** ![Trend](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/complaints_over_years.PNG) Trend is pointing upward therefore some action might be needed
 - **Top 5 products in terms of numbers of complaints in top 20 banks:** ![Top 5 products](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/top5product20banks.PNG) Number of complaints for each product is proportionate to companies' sizes
 - **Top Companies Compaints Wise & Their Bank Rank (Assets):** usin ![Top Companies Compaints Wise](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/top_bank_compliants-wise.PNG) Some organisations that might need some scrutiny
 - **Consumer's sentiment:** usin ![Consumer's sentiment](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/consumer_sentiment.PNG) American cunsumer seems to mainatain objectivity and lack of polarity over the years
