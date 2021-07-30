@@ -1,4 +1,4 @@
-# Financial Products Complaint Handling Optimization
+# Financial Product Complaint Handling Optimization
 by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) July 2021
 <br/><br/>
 ##  Insights for financial supervisory authorities, consumer & banks 
