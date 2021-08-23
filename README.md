@@ -6,7 +6,7 @@ by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) July 2021
 
 ## Table of content
 
-- [Project Description](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/README.md#project-brief)
+- [Project Description](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/README.md#project-description)
 - [Data](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/README.md#data)
 - [Process & Tools](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/README.md#process--tools)
 - [Key Take Aways & Final Product](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/README.md#key-take-aways)
