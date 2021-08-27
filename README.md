@@ -49,4 +49,6 @@ My ways of working included an iterative/agile approach circling through the fol
 - **Products Susceptible to Fraud Related:** ![Fraud](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/products_susceptible_fraud.PNG) From 2013 to 2019, we see a sharp increase in cryptocurrency related activity comparing to previous years. This can be of interest to Federal AML regulatory body
 - **Products with Response Tardiness:** ![Tardiness](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/products_tardiness.PNG) To customers to whom it may concern and a direct communication with chief compliance officer from the regulator might be needed 
 
-- **Dashboard:** For many more insight, please do check out [this dashboard](https://public.tableau.com/views/final_project_ironhack/GeneralComplaintsDashboards?:language=en-US&:display_count=n&:origin=viz_share_link)<br/>
+For many more insight, please do check out these dashboards:
+- [General Complaints Dashboards](https://public.tableau.com/views/final_project_ironhack/GeneralComplaintsDashboards?:language=en-US&:display_count=n&:origin=viz_share_link)<br/>
+- [Products, Demographics & Compliants Dashboard](https://public.tableau.com/views/final_project_ironhack/ProductsDemographicsCompliantsDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)<br/>
