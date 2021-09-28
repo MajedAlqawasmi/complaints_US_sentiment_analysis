@@ -42,11 +42,17 @@ My ways of working included an iterative/agile approach circling through the fol
 ## Key Take Aways & Final Product
 
 - **Complaints trend over the years:** ![Trend](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/complaints_over_years.PNG) Trend is pointing upward therefore some action might be needed
+
 - **Top 5 products in terms of numbers of complaints:** ![Top 5 products](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/top5product20banks.PNG) Number of complaints for each product is proportionate to companies' sizes
-- **Top Companies Compaints Wise & Their Bank Rank (Assets):** ![Top Companies Compaints Wise](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/top_bank_compliants-wise.PNG) Some organisations that might need some scrutiny
+
+- **Top Companies Complaints Wise & Their Bank Rank (Assets):** ![Top Companies Compaints Wise](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/top_bank_compliants-wise.PNG) Disproportionality between size rank and complaints-wise rank can be alarming regarding some organisations
+
 - **Consumer's sentiment:** ![Consumer's sentiment](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/consumer_sentiment.PNG) American consumer seems to have mainatained acceptable sentiment score over the years therefore objectivity and lack of polarity are to be generally assumed in all complaints
+
 - **Map & Cultural Considerations:** ![Cultural Considerations](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/sentiment_map.PNG) Extra training may be provided to employees in the orange-colored states
+
 - **Sentiment VS number of complaints:** ![scatter plot](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/Sentiment%20vs%20%23%20of%20complaints%20per%20state.PNG) The scatter plot proves no correlation between customer sentiment and the number of complaints in all the states therefore confirming the sentiment analysis can be used only for cultural training
+
 - **Products Susceptible to Fraud:** ![Fraud](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/products_susceptible_fraud.PNG) From 2013 to 2019, we see a sharp increase in cryptocurrency related activity comparing to previous years. This can be of interest to Federal AML regulatory body
 
 For many more insight, please do check out these dashboards:
