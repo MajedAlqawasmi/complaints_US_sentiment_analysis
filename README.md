@@ -26,7 +26,7 @@ Four datasets:
 **Process**
 My ways of working included an iterative/agile approach circling through the following steps:
 
-- **Github:** set up our Github repo to collaborate on or to simply use for this project. <br/>
+- **Github:** set up Github repo to collaborate on or to simply use for this project. <br/>
 - **Project management:** [Trello](https://trello.com/b/UOn2CIdn/ironhack-final-project)
 - **WorldWideWeb:** find datasets<br/>
 - **Coding:** [Jupyter notebook](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/final_project.ipynb)
