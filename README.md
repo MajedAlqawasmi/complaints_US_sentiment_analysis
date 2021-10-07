@@ -30,7 +30,7 @@ My ways of working included an iterative/agile approach circling through the fol
 - **Project management:** [Trello](https://trello.com/b/UOn2CIdn/ironhack-final-project)
 - **WorldWideWeb:** find datasets<br/>
 - **Coding:** [Jupyter notebook](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/final_project.ipynb)
-- **EDA:** assessment of dataframe to prepare for cleaning<br/>
+- **EDA:** assessment of dataframe<br/>
 - **Data cleaning & wrangling in Python:** using Pandas / numpy to drop columns, join tables, drop null values, convert some uppercase to lower<br/>
 - **Web Scraping:** using BeautifulSoup<br/>
 - **Text Analysis:** NLP using TextBlob to achieve a Sentiment score for each customer narrative<br/>
