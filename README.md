@@ -2,7 +2,7 @@
 by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) July 2021
 <br/><br/>
 ##  Insights for financial supervisory authorities, consumer & banks 
-![Consumer Complaints](Customer-Complaints.jpg)
+<img src="https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/Customer-Complaints.jpg" width="1000" height="300">
 
 ## Table of content
 
