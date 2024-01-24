@@ -1,13 +1,15 @@
-# Game Server Tableau Dashboard
-by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) January 2024
+# Financial Product Complaint Handling Optimization
+by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) July 2021
 <br/><br/>
 ##  Insights for financial supervisory authorities, consumer & banks 
-<img src="rackore-game-server.jpeg" width="1000" height="300">
+<img src="[rackore-game-server.jpeg](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/Customer-Complaints.jpg)" width="1000" height="300">
 
 ## Table of content
 
+- [Project Description](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/README.md#project-description)
 - [Data](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/README.md#data)
 - [Process & Tools](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/README.md#process--tools)
+- [Key Take Aways & Final Product](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/README.md#key-take-aways)
 
 ## Project Description
 This project shall aim to both, highlight important findings, and provided Data analysis with a comprehensive dashboard on consumer complaint about banking products in the U.S from 2013 to 2019. It aims to raise consumer awareness, helps the regulator in decision making and prompts financial institutions to optimize their both their complaint handling process as well as their products. 
